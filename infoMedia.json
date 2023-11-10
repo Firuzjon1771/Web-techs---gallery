@@ -1,0 +1,87 @@
+{
+    "images": [
+        {
+            "name":"Vysoke tatry",
+            "title":"Vysoke tatry",
+            "date":"24.05.2018",
+            "time": "14:44",
+            "GPSx":"49.13637",
+            "GPSy":" 20.24386",
+            "description": "Vysoke tatry, Slovensko. To su hori na Slovensku a ras som bol ich hikovat. Bolo to velmi krasne a nadherne.",
+            "link": "images/1.JPG"
+        },
+        {
+            "name":"Strbske Pleso",
+            "title":"Strbske Pleso",
+            "date":"24.05.2018",
+            "time": "14:44",
+            "GPSx":"49.1199381392078",
+            "GPSy":"20.0622174070856",
+            "description": "Štrbské Pleso, Slovensko. Strbske Pleso je významné centrum turizmu a zimných športov, najvyššie položená turisticko-liečebná osada, nachádzajúca sa vo Vysokých Tatrách. Rozkladá sa na južnom brehu jazera Štrbské pleso v nadmorskej výške 1 346 m n. m.. Ide o najvyššie položenú turisticko-liečebnú osadu vo Vysokých Tatrách a stredisko vrcholového športu pre severské disciplíny.",
+            "link": "images/2.JPG"
+        },
+        {
+            "name":"Niekde vo Zvolene",
+            "title":"Niekde vo Zvolene",
+            "date": "26.05.2018",
+            "GPSx":"48",
+            "GPSy":"19",
+            "description": "Slovensko. Po pravde ani neviem kde to bolo kedze nepamatam odkial mam tento foto.",
+            "link": "images/3.JPG"
+        },
+        {
+            "name":"Orawsky Hrad",
+            "title":"Orawsky Hrad",
+            "date": "25.05.2018",
+            "GPSx":"49.26192130100561",
+            "GPSy":"19.358549440892727",
+            "description": "Slovensko. Museum v Oravskom hrade. Na foto je Drakula a nejaky zomby v skle.",
+            "link": "images/4.JPG"
+        },
+        {
+            "name":"Kreuzenstein Castle",
+            "title":"Kreuzenstein Castle",
+            "date": "23.07.2018",
+            "GPSx":"48.37928469626086",
+            "GPSy":"16.309034913883224",
+            "description": "Rakusko. Kreuzenstein Castle. Krasny hrad vo Viedni. Neviem viac detailov ale celkom krasna. ",
+            "link": "images/5.JPG"
+        },
+        {
+            "name":"Ismoil Somony monument",
+            "title":"Ismoil Somony monument",
+            "date": "11.08.2021",
+            "GPSx":"38.57413188772827",
+            "GPSy":"68.78532014061362",
+            "description": "Dushanbe, Tadzikistan. Pamätník Ismoili Somoni je jedným z populárnych výstavných miest v meste Dušanbe. Toto je pamätník krala prvej perzsko-tadzickej ríše Samanidskej ríše.",
+            "link": "images/6.JPG"
+        },
+        {
+            "name":"Anzob passages",
+            "title":"Anzob passages",
+            "date": "7.08.2021",
+            "GPSx":"39.252791834984905",
+            "GPSy":"68.79373198954129",
+            "description": "Tadzikistan. Anzob passages are counted as the most dangerous routes between two biggest city of Tajikistan and the route can have height up to 4k meters along with tunnels.",
+            "link": "images/7.jpg"
+        },
+        {
+            "name":"Dovidenia FIIT",
+            "title":"Dovidenia FIIT",
+            "date": "20.05.2020",
+            "GPSx":"48.15765128413901",
+            "GPSy":"17.068740594309254",
+            "description": "Bratislava, Slovensko. Den kedy spom pochopil ze uz FIIT nedam tak som rozhodol to nechat. #FIIT_NO_MORE",
+            "link": "images/8.jpg"
+        },
+        {
+            "name":"Kairakum Reservoir",
+            "title":"Kairakum Reservoir",
+            "date": "06.06.2021",
+            "GPSx":"40.30671641903419",
+            "GPSy":"70.19377763304483",
+            "description": "Khujand, Tadzikistan. Priehrada Kairakum. Skvelé miesto na osvieženie mysle a tela. Medzi civilistami je veľmi obľúbený a počas plaveckých sezón sem príde pomerne veľa ľudí.",
+            "link": "images/9.jpg"
+        }
+    ]
+}
